@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Benjamin","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/riskmatrix8D949291BFB547248FAFE58F2721449E.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"riskmatrix","displayName":"riskmatrix","guid":"riskmatrix8D949291BFB547248FAFE58F2721449E","visualClassName":"Visual","version":"1.0.0","description":"Risk Matrix Interactive Test","supportUrl":"www.tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"benjo","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/newhistogramD9B604BDE45741E8B990481D2F0B93F4.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"newhistogram","displayName":"newhistogram","guid":"newhistogramD9B604BDE45741E8B990481D2F0B93F4","visualClassName":"Visual","version":"1.0.0","description":"histogram","supportUrl":"tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

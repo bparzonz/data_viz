@@ -1,0 +1,27 @@
+ID,Title,Risk,Type,Plan,Consequence,Likelihood
+1,Acid vapor releases to flare which is made up with non-compatible material; Carbon Steel.,Minor,Environment,"1- Continous draining whenever there is hydrocarbon in the off-gas scrubber 
+2- Close follow-up on Vessel level indication from the field during  dryers regeneration",4,3
+2,"A rapid aggeravation of leak leading  to a possible vapor cloud, which could result in explosion.",Minor,Injury/Illness,"1-To continue off line monitoring of annular space content on a daily basis.
+ 2- Monitoring of newly installed pressure transmitter in the annular space.
+3-Upgraded Fire & Gas monitoring system.
+4-Tank foundation temperature monitoring 
+",2,5
+3,Corrosion of unit leading to change in C/W ph impacting other units.,Significant,Financial,"1.Maintain Sampling C/W to track specifications timely.
+2 H.C and Cl management procedure to be strictly followed to supply on spec feed.",2,3
+4,High Temperature at compressor outlet leading to damage the compressor and unit S/D.,Minor,Injury/Illness,"1.HH Temperature Alarm where operator can take action
+2.Feed restriction from input side to reduce load and close monitoring.",3,4
+5,To run Furnace with high carburization ,Insignificant,Financial, 1. Area Staff to visit and check furnace condition once in a day.,4,5
+6,Loss of primary containment  from Compressor inter stage cooler,Significant,Environment,"1. Monthly sampling of cooling water from Exchanger shell side.
+2. Provide continuous wash oil injection at the compressor suction.
+3. Provide wash oil injection to the inter stage cooler.",3,2
+7,Continuous operation of flare sump without rapture disc,Minor,Financial,"1-Ensure daily monitoring SU pressure by panel operator and recording in the log sheet.
+2-PSV to be calibrated after install the new rupture disc.
+3-Availability of the other PSV to be on-line.",2,5
+8,Firewater tank with reduction of bottom plate thickness and deficiency of the Cathodic Protection system ,Significant,Environment,"1.Install external Cathodic Protection system by Electrical team.
+2.Robotic inspection to be carried out annually by inspection team
+3.Physical inspection to be carried out on monthly basis for soil, water leakage  and foundation condition by Civil and Operation.  ",3,1
+9,Hazmat shower not available in the bunker gear truck,Minor,Injury/Illness,"
+Establish deacon area to the nearest safety shower  ",3,4
+10,Aging of micro-logic relays (480V) in the first sub-station,Significant,Environment,"1-Disable micro-logic relays where the backup protection is available.
+2-Biweekly report will be shared by Electrical team to update the status.
+3-Power failure SOP to be follow in case of relays failure related to EHS equipment.",4,2

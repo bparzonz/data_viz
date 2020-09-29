@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Benjamin Parsons","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/hexchartpercentAB639D1981F8428DA4BEF8F6688AC016.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"hexchartpercent","displayName":"hexchart_percent","guid":"hexchartpercentAB639D1981F8428DA4BEF8F6688AC016","visualClassName":"Visual","version":"1.0.0","description":"hexviz","supportUrl":"tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

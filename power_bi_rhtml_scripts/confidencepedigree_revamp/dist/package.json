@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Parsons","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/confidencepedigreeEDBA9450E764416F9513CA2B5B32C3BC.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"confidencepedigree","displayName":"confidence_pedigree","guid":"confidencepedigreeEDBA9450E764416F9513CA2B5B32C3BC","visualClassName":"Visual","version":"1.0.0","description":"Confidence Pedigree","supportUrl":"www.tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

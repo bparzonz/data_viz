@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Benjamin","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/riskdensityplot51A9E4E03DD649A5ACBD3EEF3AD6E897.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"riskdensityplot","displayName":"risk_density_plot","guid":"riskdensityplot51A9E4E03DD649A5ACBD3EEF3AD6E897","visualClassName":"Visual","version":"1.0.0","description":"Riskhistogram","supportUrl":"tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

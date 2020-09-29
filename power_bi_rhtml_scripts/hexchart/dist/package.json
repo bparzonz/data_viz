@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Benjamin","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/hexchartCAF357EE7371421FA5A5596430FCC2E2.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"hexchart","displayName":"hexchart","guid":"hexchartCAF357EE7371421FA5A5596430FCC2E2","visualClassName":"Visual","version":"1.0.0","description":"Schedule Viz","supportUrl":"tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

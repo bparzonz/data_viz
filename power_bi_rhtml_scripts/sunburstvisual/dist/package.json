@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Benjamin","email":"bparsons@tecolote.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/sunburstvisual2EE009A29A7F4E5792A1FC6268FE646A.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"sunburstvisual","displayName":"sunburstvisual","guid":"sunburstvisual2EE009A29A7F4E5792A1FC6268FE646A","visualClassName":"Visual","version":"1.0.0","description":"Sunburst Visual","supportUrl":"tecolote.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
